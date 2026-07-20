@@ -1,0 +1,13 @@
+# Packet Tracer temporary / backup / autosave files
+*.pkt.bak
+*.pkz
+~$*.pkt
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor/IDE junk
+.vscode/
+*.swp
